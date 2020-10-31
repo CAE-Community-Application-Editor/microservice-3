@@ -116,7 +116,8 @@ public class Resource extends RESTService {
     // response
     boolean response_condition = true;
     if(response_condition) {
-      JSONObject result = new JSONObject();
+      JSONObject result = new JSONObject(); 
+      result.
 
       
 
