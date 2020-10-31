@@ -117,7 +117,7 @@ public class Resource extends RESTService {
     boolean response_condition = true;
     if(response_condition) {
       JSONObject result = new JSONObject(); 
-      result.
+      result.put("text", "Just a test text.");
 
       
 
